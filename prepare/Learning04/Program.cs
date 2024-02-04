@@ -4,7 +4,7 @@ class Program
 {
     static void Main(string[] args)
     {
-        string assignmentDetails = "Section 10.5 problems 1-20";
+        string assignmentDetails = "Section 2.3 problems 3-15";
 
         MathAssignment mathAssignment = new MathAssignment("Raymond Reddington", "Addition and Subtraction", assignmentDetails);
 
